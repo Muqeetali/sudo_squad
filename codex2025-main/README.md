@@ -2,6 +2,9 @@
 
 ## Introduction
 
+## Video 
+https://www.loom.com/share/d1341e8f72d7452b87b7da685b94c292
+
 The Cardano Career Navigator is a Masumi AI agent that provides personalized career guidance for entering the Cardano ecosystem. Unlike generic Web3 career advice, this agent analyzes users' on-chain activity to create tailored learning paths, integrates with Begin Wallet's unique features, and monetizes through ADA payments. The system addresses the real pain point that 78% of new users struggle with knowing where to start in the Cardano ecosystem.
 <img width="2735" height="1439" alt="image" src="https://github.com/user-attachments/assets/9ee3fad2-fb5b-4e3b-b57a-d7aa45d1d6be" />
 
