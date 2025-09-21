@@ -3,12 +3,22 @@
 ## Introduction
 
 The Cardano Career Navigator is a Masumi AI agent that provides personalized career guidance for entering the Cardano ecosystem. Unlike generic Web3 career advice, this agent analyzes users' on-chain activity to create tailored learning paths, integrates with Begin Wallet's unique features, and monetizes through ADA payments. The system addresses the real pain point that 78% of new users struggle with knowing where to start in the Cardano ecosystem.
+<img width="2735" height="1439" alt="image" src="https://github.com/user-attachments/assets/9ee3fad2-fb5b-4e3b-b57a-d7aa45d1d6be" />
+
+<img width="2703" height="1541" alt="image" src="https://github.com/user-attachments/assets/c2348ad7-9018-4193-a5bd-a2644aa3bb8f" />
+
+<img width="2685" height="1520" alt="image" src="https://github.com/user-attachments/assets/def5e0e9-e90a-409f-822a-12efd1811165" />
+
+
 
 ## Requirements
 
 ### Requirement 1: User Skills Assessment Service
 
 **User Story:** As a newcomer to the Cardano ecosystem, I want to receive a personalized skills assessment based on my on-chain activity, so that I can understand my current level and get relevant career guidance.
+
+<img width="2695" height="1538" alt="image" src="https://github.com/user-attachments/assets/6043472a-a912-4434-b9a0-a9096e7250a8" />
+
 
 #### Acceptance Criteria
 
@@ -22,6 +32,9 @@ The Cardano Career Navigator is a Masumi AI agent that provides personalized car
 ### Requirement 2: Personalized Career Roadmap Generation
 
 **User Story:** As a Cardano ecosystem participant, I want to receive a detailed career roadmap with milestones and resources, so that I can systematically progress toward my career goals.
+
+![Uploading image.png…]()
+
 
 #### Acceptance Criteria
 
@@ -60,6 +73,7 @@ The Cardano Career Navigator is a Masumi AI agent that provides personalized car
 6. IF user has Begin Wallet THEN the system SHALL leverage Begin Wallet's metadata reading capabilities
 
 ### Requirement 5: Achievement NFT System
+![Uploading image.png…]()
 
 **User Story:** As a Cardano learner, I want to earn NFT certificates for completing major milestones, so that I can showcase my verified achievements in my wallet.
 
